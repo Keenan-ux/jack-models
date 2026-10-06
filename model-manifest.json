@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "models": {
+    "jack-1.5b": {
+      "version": 2,
+      "sha256": "ce5d1941a3ba13567101ebef3c43c557c053e38dd23f662ac3766becf586a647",
+      "size": 1802843056,
+      "min_app_version_code": 4,
+      "note": "ftnext2 - general-knowledge replay cure; requires the locked-voice sampler cap (app versionCode 4+)"
+    }
+  }
+}
